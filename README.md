@@ -7,7 +7,7 @@
 ## 截图
 * 项目首页, 支持点击加载新数据
 
-![Alt text](https://github.com/cliYao/cliYao_jianshu_react/raw/master/ScreenShots/1.gif)
+<img src="https://github.com/cliYao/cliYao_jianshu_react/raw/master/ScreenShots/1.gif" width="50%" height="50%">
 
 * 项目搜索栏,  热门搜索, 搜索词换一换
 
