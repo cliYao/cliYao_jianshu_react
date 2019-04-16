@@ -1,68 +1,32 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## jianshu_react
 
-## Available Scripts
+## 说明
+使用 React 仿写了一个简单的简书, 纯前端的项目, 部分数据使用 easy-mock 模拟 (easy-mock 响应有时会超级慢~ ) , 还有一部分数据来自维基百科, 客户端需要可以直接访问 Wikipedia 服务器, 才能预览全部功能　
+项目完成时间仓促, 存在一些 bug , 欢迎大家帮忙指正, 多谢~
 
-In the project directory, you can run:
+## 截图
+* 项目首页, 支持点击加载新数据
 
-### `npm start`
+![Alt text](https://github.com/cliYao/cliYao_jianshu_react/raw/master/ScreenShots/1.gif)
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* 项目搜索栏,  热门搜索, 搜索词换一换
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+![Alt text](https://github.com/cliYao/cliYao_jianshu_react/raw/master/ScreenShots/2.gif)
 
-### `npm test`
+* 详情页面, 需要登录后可以访问
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Alt text](https://github.com/cliYao/cliYao_jianshu_react/raw/master/ScreenShots/3.gif)
 
-### `npm run build`
+* 登录页面
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Alt text](https://github.com/cliYao/cliYao_jianshu_react/raw/master/ScreenShots/4.gif)
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+* 写文章页面
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Alt text](https://github.com/cliYao/cliYao_jianshu_react/raw/master/ScreenShots/5.gif)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## 技术栈
+* React
+* Redux
+* React Router
