@@ -11,19 +11,17 @@
 
 * 项目搜索栏,  热门搜索, 搜索词换一换
 
-![Alt text](https://github.com/cliYao/cliYao_jianshu_react/raw/master/ScreenShots/2.gif)
+<img src="https://github.com/cliYao/cliYao_jianshu_react/raw/master/ScreenShots/2.gif)" width="50%" height="50%">
+![Alt text](
 
 * 详情页面, 需要登录后可以访问
-
-![Alt text](https://github.com/cliYao/cliYao_jianshu_react/raw/master/ScreenShots/3.gif)
+<img src="https://github.com/cliYao/cliYao_jianshu_react/raw/master/ScreenShots/3.gif" width="50%" height="50%">
 
 * 登录页面
-
-![Alt text](https://github.com/cliYao/cliYao_jianshu_react/raw/master/ScreenShots/4.gif)
+<img src="https://github.com/cliYao/cliYao_jianshu_react/raw/master/ScreenShots/4.gif" width="50%" height="50%">
 
 * 写文章页面
-
-![Alt text](https://github.com/cliYao/cliYao_jianshu_react/raw/master/ScreenShots/5.gif)
+<img src="https://github.com/cliYao/cliYao_jianshu_react/raw/master/ScreenShots/5.gif" width="50%" height="50%">
 
 
 ## 技术栈
